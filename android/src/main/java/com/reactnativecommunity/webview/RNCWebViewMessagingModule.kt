@@ -1,4 +1,4 @@
-package com.reactnativecommunity.webview
+package com.fedex.ida.android
 
 import com.facebook.react.bridge.JavaScriptModule
 import com.facebook.react.bridge.WritableMap
